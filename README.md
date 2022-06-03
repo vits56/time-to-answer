@@ -12,7 +12,7 @@
 * Você instalou a versão  ` Ruby '2.5.8' | Rails '5.2.0'`. 
 * Você tem uma máquina `< Linux / Mac>`.
 
-## 🚀 Instalando <crypto_wallet>
+## 🚀 Instalando <Time_to_Answer>
 
 Clone este repositório:
 ```
