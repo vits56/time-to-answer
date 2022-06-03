@@ -49,10 +49,6 @@ senha: 123456
 ```
 
 
-> ### Caso queira ver a aplicação no ar:
-> [Time to Answer]()
-
-
 ## License
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
